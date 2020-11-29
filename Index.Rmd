@@ -1,0 +1,64 @@
+---
+title: "Joe Edwards"
+image: "joe.jpeg"
+links:
+  - GoogleScholar: "https://scholar.google.com/citations?user=aPHqjO4AAAAJ&hl=en"
+  - Twitter: "https://twitter.com/Bulk_Soil"
+  - Github: "https://github.com/bulksoil"
+  - Email: "mailto:j_edwards@utexas.edu"
+output: 
+  postcards::trestles
+---
+
+## Bio
+My research sits at the interface of plant microbiomes, host genetics, and immunity. I use quantitiative genetics and reverse genetic approaches to better understand how plant host modulate their root microbiomes, how microbiota impact plant growth, and how the plant immune system affects and is affected by microbiota.
+
+## Education
+
+**University of California, Davis** | Davis, CA
+
+Ph.D. in Plant Biology | 2011 - 2017
+
+**Virginia Tech** | Blacksburg, VA
+
+B.S. in Biological Sciences | 2007-2011
+
+## Experience
+
+**USDA NIFA Postdoctoral Fellow** | Juenger Lab
+
+University of Texas, Austin | 2018 - current
+
+**Postdoctoral Researcher** | Sundaresan Lab
+
+University of California, Davis | 2017
+
+**Graduate Researcher** | Sundaresan Lab
+
+University of California, Davis | 2011 - 2017
+
+## Publications
+
+### Preprints
+Santos, C.; Liechty, Z.; **Edwards, J.**; Nguyen, B.; Huang, B.; Weimer, B.; Sundaresan, V. Drought duration determines the recovery dynamics of rice root microbiomes. (2020) *BioRxiv* DOI: 10.1101/2020.09.29.314781
+
+Murphy, K; **Edwards, J**; Louie, K; Bowen, B; Sundaresan, V; Northern, T; Zerbe, P. Bioactive Diterpenoids Impact the Composition of the Root-Associated Microbiome in Maize (Zea mays) (2020) *Research Square* DOI: 10.21203/rs.3.rs-21333/v1 (Provisionally Accepted at *Scientific Reports*)
+
+Mueller, U., Juenger, T., Kardish, M., Carlson, A., Burns, K., **Edwards, J.**, Smith, C., Fang, C., Des Marais, D. Artificial Microbiome-Selection to Engineer Microbiomes That Confer Salt-Tolerance to Plants. BioRxiv (2019) DOI: 10.1101/081521
+
+### Peer Reviewed
+Liechty, Z., Santos, C., **Edwards, J.**, Nguyen, B., Mikhai, D.l, Eason, S., Phillips, G., and Sundaresan, V. “Comparative Analysis of Root Microbiomes of Rice Cultivars with High and Low Methane Emissions Reveals Differences in Abundance of Methanogenic Archaea and Putative Upstream Fermenters.” *mSystems* 5 (1) (2020). https://doi.org/10.1128/mSystems.00897-19.
+
+**Edwards, J.**, Santos-Medellin, Liechty, Nguyen, B., Kilmer, J., Liechty, Z., Veliz, E., Ni, J., Phillips, G., Sundaresan V. Soil domestication by rice cultivation results in plant-soil feedback through shifts in soil microbiota. *Genome Biol* 20, 221 (2019) doi:10.1186/s13059-019-1825-x
+
+**Edwards, J.**, Santos-Medellín, C., Sundaresan V. “Extraction and 16S rRNA Sequence Analysis of Microbiomes Associated with Rice Roots.” *Bio-protocol* (2018): DOI 10.21769/BioProtoc.2884
+
+**Edwards, J.**, Santos-Medellín, C., Liechty, Z., Nguyen, B., Lurie, E, Eason, S., Phillips, G., Sundaresan, V. “Compositional shifts in root-associated bacterial and archaeal microbiota track the plant life cycle in field-grown rice.” *PLoS Biology* 16.2 (2018): e2003862. DOI: 10.1371/journal.pbio.2003862
+
+Santos-Medellín, C., **Edwards, J.**, Liechty, Z., Nguyen, B., and Sundaresan, V. “Drought stress results in a compartment-specific restructuring of the rice root-associated microbiomes.” *mBio* 8.4 (2017): e00764-17. DOI: 10.1128/mBio.00764-17
+
+Battenberg, K., Wren, J. A., Hillman, J., **Edwards, J.**, Huang, L., & Berry, A. M. (2017). The Influence of the Host Plant Is the Major Ecological Determinant of the Presence of Nitrogen-Fixing Root Nodule Symbiont Cluster II Frankia Species in Soil. *Applied and Environmental Microbiology*, 83(1), e02661-16. doi: 10.1128/AEM.02661-16
+
+**Edwards, J.**, Johnson, C., Santos-Medellín, C., Lurie, E., Podishetty, N.K., Bhatnagar, S., Eisen, J.A., and Sundaresan, V. (2015). Structure, variation, and assembly of the root-associated microbiomes of rice. *Proceedings of the National Academy of Sciences*. doi: 10.1073/pnas.1414592112
+
+
