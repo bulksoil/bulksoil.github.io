@@ -11,7 +11,7 @@ output:
 ---
 
 ## Bio
-My research is at the interface of plant microbiomes, host genetics, and immunity. I use quantitiative genetics, microbiology, and reverse genetic approaches to better understand how plant host modulate their root microbiomes, how microbiota impact plant growth, and how the plant immune system affects and is affected by microbiota.
+My research is at the interface of plant microbiomes, host genetics, and immunity. I use quantitiative genetics, microbiology, and reverse genetic approaches to better understand how plant host modulate their root microbiomes, how microbiota impact plant growth, and how the plant immune system responds to microbiota.
 
 ## Education
 
@@ -39,14 +39,14 @@ University of California, Davis | 2011 - 2017
 
 ## Publications
 
-### Preprints
+#### Preprints
 Santos, C.; Liechty, Z.; **Edwards, J.**; Nguyen, B.; Huang, B.; Weimer, B.; Sundaresan, V. Drought duration determines the recovery dynamics of rice root microbiomes. (2020) *BioRxiv* DOI: 10.1101/2020.09.29.314781
 
 Murphy, K; **Edwards, J**; Louie, K; Bowen, B; Sundaresan, V; Northern, T; Zerbe, P. Bioactive Diterpenoids Impact the Composition of the Root-Associated Microbiome in Maize (Zea mays) (2020) *Research Square* DOI: 10.21203/rs.3.rs-21333/v1 (Provisionally Accepted at *Scientific Reports*)
 
 Mueller, U., Juenger, T., Kardish, M., Carlson, A., Burns, K., **Edwards, J.**, Smith, C., Fang, C., Des Marais, D. Artificial Microbiome-Selection to Engineer Microbiomes That Confer Salt-Tolerance to Plants. BioRxiv (2019) DOI: 10.1101/081521
 
-### Peer Reviewed
+#### Peer Reviewed
 Liechty, Z., Santos, C., **Edwards, J.**, Nguyen, B., Mikhai, D.l, Eason, S., Phillips, G., and Sundaresan, V. “Comparative Analysis of Root Microbiomes of Rice Cultivars with High and Low Methane Emissions Reveals Differences in Abundance of Methanogenic Archaea and Putative Upstream Fermenters.” *mSystems* 5 (1) (2020). https://doi.org/10.1128/mSystems.00897-19.
 
 **Edwards, J.**, Santos-Medellin, Liechty, Nguyen, B., Kilmer, J., Liechty, Z., Veliz, E., Ni, J., Phillips, G., Sundaresan V. Soil domestication by rice cultivation results in plant-soil feedback through shifts in soil microbiota. *Genome Biol* 20, 221 (2019) doi:10.1186/s13059-019-1825-x
